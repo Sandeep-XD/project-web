@@ -1,2 +1,2 @@
 const x = document.getElementById("root");
-x.innerHTML("<h>hello</h>")
+x.innerHTML = "<h1>what the ffff</h1>"
